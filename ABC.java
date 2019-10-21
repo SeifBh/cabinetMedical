@@ -8,14 +8,14 @@ public class ABC{
 	}
 
 
-		public void B(){
-
+	public void B(){
+		//B
 		System.Out.println("Bonjour version ABC-B");
 		
 	}
 
 
-		public void C(){
+	public void C(){
 
 		System.Out.println("Bonjour version ABC-C");
 		
